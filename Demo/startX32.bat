@@ -1,0 +1,1 @@
+StofuTestTask DemoX32.exe DllX32.dll
